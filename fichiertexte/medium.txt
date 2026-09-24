@@ -1,0 +1,119 @@
+ordinateur clavier
+or
+2
+
+maison jardin
+ai
+2
+
+telephone ecran
+en
+2
+
+voiture route
+ot
+2
+
+piscine eau
+in
+2
+
+restaurant diner
+er
+2
+
+chocolat cookie
+co
+2
+
+animal chien
+an
+2
+
+plage sable
+le
+2
+
+cinema film
+il
+2
+
+supermarche prix
+ri
+2
+
+bateau ocean
+ao
+2
+
+jardin plante
+an
+2
+
+musique piano
+ui
+2
+
+avion aeroport
+ao
+2
+
+cafe the
+e 
+2
+
+soleil lumiere
+le
+2
+
+chaussure semelle
+el
+2
+
+fenetre vitre
+tr
+2
+
+horloge temps
+em
+2
+
+journal article
+al
+2
+
+bureau bourreau
+ur
+2
+
+ordinateur ecran
+or
+2
+
+television ecran
+en
+2
+
+voiture garage
+ar
+2
+
+piscine nager
+in
+2
+
+restaurant table
+ta
+2
+
+chocolat bonbon
+bo
+2
+
+animal chat
+an
+2
+
+plage mer
+me
+2

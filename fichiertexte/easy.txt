@@ -1,0 +1,195 @@
+arbre table chat  
+a  
+1  
+
+banane hamac lavabo  
+a  
+1  
+
+fenêtre neige feuille  
+e  
+1  
+
+berceau cerise melon  
+e  
+1  
+
+livre sirop fil  
+i  
+1  
+
+brique midi tapis  
+i  
+1  
+
+robot photo bol  
+o  
+1  
+
+rose moto zoo  
+o  
+1  
+
+lune mur bus  
+u  
+1  
+
+tulipe plume jus  
+u  
+1  
+
+arbre rue train  
+r  
+1  
+
+fourmi porte crayon  
+r  
+1  
+
+bateau lac tapis  
+a  
+1  
+
+étoile ciel neige  
+e  
+1  
+
+pinceau musique plume  
+u  
+1  
+
+chapeau gant sac  
+a  
+1  
+
+échelle nuage feuille  
+e  
+1  
+
+bouteille soleil rue  
+e  
+1  
+
+coeur fleur neige  
+e  
+1  
+
+radio piano avion  
+a  
+1  
+
+vélo moto robot  
+o  
+1  
+
+ballon salon table  
+a  
+1  
+
+café thé lait  
+a  
+1  
+
+fenêtre porte mur  
+e  
+1  
+
+tigre lion singe  
+i  
+1  
+
+pomme orange fraise  
+e  
+1  
+
+chaussure pantalon pull  
+u  
+1  
+
+montre horloge temps  
+e  
+1  
+
+brosse tapis balai  
+a  
+1  
+
+voiture route garage  
+a  
+1  
+
+plume livre page  
+e  
+1  
+
+parapluie souris mur  
+r  
+1  
+
+cerise armoire fer  
+r  
+1  
+
+tigre girafe rire  
+r  
+1  
+
+gobelet corbeau mot  
+o  
+1  
+
+poisson rocher sol  
+o  
+1  
+
+bulle nuage muguet  
+u  
+1  
+
+tunnel cactus puzzle  
+u  
+1  
+
+fusée tortue puzzle  
+u  
+1  
+
+tempête perle vent  
+e  
+1  
+
+verre terre nuage  
+e  
+1  
+
+pelle tige herbe  
+e  
+1  
+
+biscuit stylo ville  
+i  
+1  
+
+kiwi iris lit  
+i  
+1  
+
+givre piscine riz  
+i  
+1  
+
+horloge moto pot  
+o  
+1  
+
+rose moto zoo  
+o  
+1  
+
+lune mur bus  
+u  
+1  
+
+tulipe plume jus  
+u  
+1  
